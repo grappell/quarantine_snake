@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quarantine_snake/static/css/main.82cbb91d.chunk.css",
+    "main.js": "/quarantine_snake/static/js/main.1857b30b.chunk.js",
+    "main.js.map": "/quarantine_snake/static/js/main.1857b30b.chunk.js.map",
+    "runtime-main.js": "/quarantine_snake/static/js/runtime-main.ac20cafc.js",
+    "runtime-main.js.map": "/quarantine_snake/static/js/runtime-main.ac20cafc.js.map",
+    "static/js/2.eefad24d.chunk.js": "/quarantine_snake/static/js/2.eefad24d.chunk.js",
+    "static/js/2.eefad24d.chunk.js.map": "/quarantine_snake/static/js/2.eefad24d.chunk.js.map",
+    "index.html": "/quarantine_snake/index.html",
+    "precache-manifest.c23f05b7ddc3ca98a0f3926fc1dd7ac1.js": "/quarantine_snake/precache-manifest.c23f05b7ddc3ca98a0f3926fc1dd7ac1.js",
+    "service-worker.js": "/quarantine_snake/service-worker.js",
+    "static/css/main.82cbb91d.chunk.css.map": "/quarantine_snake/static/css/main.82cbb91d.chunk.css.map",
+    "static/js/2.eefad24d.chunk.js.LICENSE.txt": "/quarantine_snake/static/js/2.eefad24d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac20cafc.js",
+    "static/js/2.eefad24d.chunk.js",
+    "static/css/main.82cbb91d.chunk.css",
+    "static/js/main.1857b30b.chunk.js"
+  ]
+}
