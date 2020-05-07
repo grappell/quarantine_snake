@@ -89,12 +89,12 @@ function PlayArea (props) {
         setButtonTick(buttonTick + 1)
 
         if (top < 1 || top > 12 * 59 || left < 1 || left > 22 * 59) {
-            alert("you lost hahah you suck ur trash you lost again by hitting the wall, also your awfull useless trash score was " + score)
+            alert("you lost by hitting the wall, your score was " + score)
             restart()
         }
 
         if(isSnakeColiding()) {
-            alert("you lost hahah you suck ur trash you lost again by going onto your self, also your awfull useless trash score was " + score)
+            alert("you lost by going onto your self, your score was " + score)
             restart()
         }
 
