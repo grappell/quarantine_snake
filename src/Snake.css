@@ -1,0 +1,41 @@
+.snake{
+    width: 50px;
+    height: 50px;
+    background-color:greenyellow;
+    border: 4px black solid;
+    position: absolute;
+}
+
+.theActualEye{
+    width: 10px;
+    height: 10px;
+    background-color: coral;
+}
+
+.leftEye{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.rightEye{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+.snake.right {
+    transform: rotate(90deg);
+  }
+
+  .snake.left {
+    transform: rotate(-90deg);
+  }
+
+  .snake.up {
+    transform: rotate(0deg);
+  }
+
+  .snake.down {
+    transform: rotate(180deg);
+  }

@@ -1,0 +1,25 @@
+#playArea {
+    position: absolute;
+    background-color:black;
+    width: 1340px;
+    height: 758px;
+    top: 10px;
+    left: 10px;
+}
+
+#scoreBord {
+    background-color: blue;
+}
+
+#playAreaControlerDiv{
+    position: absolute;
+    color: darkgoldenrod;
+    width: 25px;
+    height: 25px;
+    left: 1370px;
+    top: 20px;
+
+}
+/* #snakeContainer {
+    position: relative;
+} */
